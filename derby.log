@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Tue Jun 07 19:14:02 SAST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0181-3f28-b8a7-000004c7b6c0 
+on database directory memory:/home/vannessa/interstellar/bfa43468-7c62-49ed-8435-95020cf241b1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
+Loaded from file:/home/vannessa/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=11.0.15+10-Ubuntu-0ubuntu0.21.10.1
+user.dir=/home/vannessa/interstellar
+os.name=Linux
+os.arch=amd64
+os.version=5.13.0-44-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Tue Jun 07 19:14:03 SAST 2022:
+Shutting down instance a816c00e-0181-3f28-b8a7-000004c7b6c0 on database directory memory:/home/vannessa/interstellar/bfa43468-7c62-49ed-8435-95020cf241b1 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@3d4eac69 
